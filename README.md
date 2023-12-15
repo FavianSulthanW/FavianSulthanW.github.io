@@ -2,6 +2,7 @@
 I'm Sulthan, a penultimate-year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
 
 #### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views
+![foto diri](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/2588dc9c-c049-4d73-bf56-e08e3bd3237e)
 
 ## Education
 - Bachelor's Degree, Statistics | Universitas Indonesia (_July 2021-Present_)								       		
