@@ -10,8 +10,11 @@ I'm Sulthan, a penultimate-year statistics undergraduate student with a passion 
 
 ## Projects
 
+
 ### Data Mining & Business Intelligence
-logo: /assets/img/foto diri.jpg
+![datmin](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/f1cb8e90-0853-422d-a3e5-db1b7658fe3c)
+
+
 [Access it here!](https://github.com/FavianSulthanW/DataMining-BI)
 
 This is one of my classes that i took in my 5th semester. Here's the summary of the projects that i did:
@@ -19,7 +22,11 @@ This is one of my classes that i took in my 5th semester. Here's the summary of 
 - Analyzed real property dataset from various property websites in Indonesia, gaining important insights using EDA and giving recommendations from it.
 - For my midterm test, we were given a dataset of mathematics departement alumni. We were told to gain 3 most important insights. I did EDA with visualizations and made a regression model to check the relationship between variables.
 
+
 ### Project-Based Virtual Internship: Data Scientist - Rakamin Academy
+
+
+
 [Access it here!](https://github.com/FavianSulthanW/Virtual-Internship-Rakamin)
 
 On my semester break, i took Kalbe Nutritionals - Data Scientist Virtual Internship from [Rakamin](https://www.rakamin.com/) the internship lasts for a month. Here's what i did:
