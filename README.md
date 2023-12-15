@@ -38,7 +38,7 @@ of products sold.
 
 
 ### Metode Peramalan
-
+![arima forecast](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/96d63ba5-94a7-4379-b296-fa7844c9d513)
 
 
 [Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
@@ -48,7 +48,7 @@ This is one of my classes that i took in my 4th semester. Here's what i did:
 
 
 ### Analisis Survival
-
+![survival anal](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/b7a4cd37-3c68-4700-bde2-102a9bf36c52)
 
 
 [Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
@@ -57,7 +57,11 @@ This is also one of my classes that i took in my 4th semester. Here's what i did
 - For my final exam, we had a group project to apply the Cox-PH regression model to a survival dataset. We used primary biliary cirrhosis (PBC) [dataset](https://pmagunia.com/dataset/r-dataset-package-survival-pbc) which is a type liver disease with severity stages. Using Cox-PH regression model we can see how different stages affect the survival of the patient.
 
 
-- My [Tableau Public](https://public.tableau.com/app/profile/favian.sulthan.wafi)
 
-- My Socials
-  [Tableau Public](https://www.linkedin.com/in/faviansulthanwafi/) [Tableau Public](https://www.instagram.com/faviansulthan/)
+
+### My Tableau Public
+
+[<img src="https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/34e6fa48-fc63-4ac5-9a6d-c78ea870f4e0" width="100" height="100">](https://public.tableau.com/app/profile/favian.sulthan.wafi)
+
+### My Socials
+[<img src="https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/df907c7f-3f18-40b0-b284-a310d1b4028f" width="100" height="100">](https://www.linkedin.com/in/faviansulthanwafi/)  [<img src="https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/4d933db7-eb62-40c0-bebe-738422564710" width="100" height="100">](https://www.instagram.com/faviansulthan/)
