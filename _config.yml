@@ -1,5 +1,8 @@
 title: Favian Sulthan Wafi
-logo: /assets/img/foto diri.jpg
+logo:   url: /assets/img/headshot_circle.png
+  # Specify desired width and/or height
+  width: 100px
+  height: 100px
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
