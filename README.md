@@ -1,4 +1,4 @@
-# Hi!
+# Hello!
 I'm Sulthan, a penultimate-year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
 
 #### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views
