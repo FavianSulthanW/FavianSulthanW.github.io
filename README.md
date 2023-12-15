@@ -1,4 +1,4 @@
-# Hello!
+# Hi!
 I'm Sulthan, a penultimate-year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
 
 #### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views
@@ -53,7 +53,7 @@ This is one of my classes that i took in my 4th semester. Here's what i did:
 
 [Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
 
-This is also one of my classes that i took in my 4th semester. Here's what i did:
+This is one of my classes that i took in my 4th semester as well. Here's what i did:
 - For my final exam, we had a group project to apply the Cox-PH regression model to a survival dataset. We used primary biliary cirrhosis (PBC) [dataset](https://pmagunia.com/dataset/r-dataset-package-survival-pbc) which is a type liver disease with severity stages. Using Cox-PH regression model we can see how different stages affect the survival of the patient.
 
 
