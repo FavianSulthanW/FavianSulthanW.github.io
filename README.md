@@ -24,7 +24,7 @@ This is one of my classes that i took in my 5th semester. Here's the summary of 
 
 
 ### Project-Based Virtual Internship: Data Scientist - Rakamin Academy
-
+![kalbe](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/2529e06e-a0a1-44c6-a973-6ecd28d89f98)
 
 
 [Access it here!](https://github.com/FavianSulthanW/Virtual-Internship-Rakamin)
@@ -36,14 +36,20 @@ daily for inventory team using Python, and SQL.
 - Conducted exploratory data analysis to identify highest selling products and stores and the quantity 
 of products sold.
 
+
 ### Metode Peramalan
+
+
 
 [Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
 
 This is one of my classes that i took in my 4th semester. Here's what i did:
 - For my final exam, we had a group project to forecast using ARIMA model. We predicted the daily temperature of Warsaw using this [dataset](https://www.kaggle.com/datasets/mateuszk013/warsaw-daily-weather) using ARIMA forecasting model in R
 
+
 ### Analisis Survival
+
+
 
 [Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
 
