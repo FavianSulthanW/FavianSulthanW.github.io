@@ -51,7 +51,7 @@ This is one of my classes that i took in my 4th semester. Here's what i did:
 ![survival anal](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/b7a4cd37-3c68-4700-bde2-102a9bf36c52)
 
 
-[Access it here!](https://github.com/FavianSulthanW/Metode-Peramalan)
+[Access it here!](https://github.com/FavianSulthanW/Model-Survival)
 
 This is one of my classes that i took in my 4th semester as well. Here's what i did:
 - For my final exam, we had a group project to apply the Cox-PH regression model to a survival dataset. We used primary biliary cirrhosis (PBC) [dataset](https://pmagunia.com/dataset/r-dataset-package-survival-pbc) which is a type liver disease with severity stages. Using Cox-PH regression model we can see how different stages affect the survival of the patient.
