@@ -11,7 +11,7 @@ I'm Sulthan, a penultimate-year statistics undergraduate student with a passion 
 ## Projects
 
 ### Data Mining & Business Intelligence
-...
+logo: /assets/img/foto diri.jpg
 [Access it here!](https://github.com/FavianSulthanW/DataMining-BI)
 
 This is one of my classes that i took in my 5th semester. Here's the summary of the projects that i did:
