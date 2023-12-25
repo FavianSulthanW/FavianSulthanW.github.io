@@ -20,7 +20,8 @@ I'm Sulthan, a penultimate-year statistics undergraduate student with a passion 
 This is one of my classes that i took in my 5th semester. Here's the summary of the projects that i did:
 - Analyzed real hoax text dataset from [mafindo](https://www.mafindo.or.id/), made a text classification model with the highest accuracy, did some exploratory data analysis(EDA), and text analysis using [Voyant Tools](https://voyant-tools.org/) to gain insights and giving recommandations from it.
 - Analyzed real property dataset from various property websites in Indonesia, gaining important insights using EDA and giving recommendations from it.
-- For my midterm test, we were given a dataset of mathematics departement alumni. We were told to gain 3 most important insights. I did EDA with visualizations and made a regression model to check the relationship between variables.
+- For my midterm test, we were given a dataset of mathematics departement alumni. We were told to gain 3 most important insights. We did EDA with visualizations and made a regression model to check the relationship between variables.
+- For my finals, we were given another dataset with a total of 200.000+ observations. We were told to gain insights from it. My team did EDA, made ordinal logistic regression model, and a classification model.
 
 
 ### Project-Based Virtual Internship: Data Scientist - Rakamin Academy
