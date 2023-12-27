@@ -10,6 +10,13 @@ I'm Sulthan, a penultimate-year statistics undergraduate student with a passion 
 
 ## Projects
 
+### Google Data Analytics Capstone - Cyclistic Study Case
+![google](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/f1cb8e90-0853-422d-a3e5-db1b7658fe3c)
+
+
+[Access it here!](https://github.com/FavianSulthanW/GoogleDataAnalyticsCapstone)
+
+[Google Data Analytics Certificate]() is an online program offered on Coursera that aims to prepare a data analyst role. This study case focuses on understanding the differences between the characteristics of users of the "cyclistic" application, which is a bicycle transportation service. I used Python to perform EDA and obtain insights that were used as business recommendations for cyclistic app.
 
 ### Data Mining & Business Intelligence
 ![datmin](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/f1cb8e90-0853-422d-a3e5-db1b7658fe3c)
