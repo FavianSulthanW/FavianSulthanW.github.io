@@ -1,7 +1,7 @@
 # Hello!
 I'm Sulthan, a penultimate-year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
 
-#### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views
+#### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views, Microsoft Excel
 
 
 ## Education
@@ -64,6 +64,49 @@ This is one of my classes that i took in my 4th semester. Here's what i did:
 
 This is one of my classes that i took in my 4th semester as well. Here's what i did:
 - For my final exam, we had a group project to apply the Cox-PH regression model to a survival dataset. We used primary biliary cirrhosis (PBC) [dataset](https://pmagunia.com/dataset/r-dataset-package-survival-pbc) which is a type liver disease with severity stages. Using Cox-PH regression model we can see how different stages affect the survival of the patient.
+
+
+### Econometrics
+
+![image](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/bdcd400c-a750-4456-bed0-0680f4fb689b)
+
+
+
+[Access it here!](https://github.com/FavianSulthanW/Econometrics)
+
+This is one of my classes that i took in my 5th semester. Here's what i did:
+- For my final project, I conducted research on time-series data using a simultaneous equation model. I explored the mutual effects of the Human Development Index (IPM) and poverty percentage on each other, utilizing data from the USA for its accessibility. I used Eviews and R for this analysis.
+
+
+### Advanced Linear Model
+
+![image](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/1810242b-7128-4103-ae93-398299baa014)
+
+
+
+
+[Access it here!](https://github.com/FavianSulthanW/Advanced-Linear-Model)
+
+This is one of my classes that i took in my 5th semester. Here's what i did:
+- For my final project, my group was assigned to conduct research using one of the generalized linear models (GLM). We aimed to understand the factors influencing customer product purchase likelihood, which was categorized into three ordered probabilities: low, medium, and high. To achieve this, we employed ordinal logistic regression using R.
+
+
+
+### Psychometrics
+
+![image](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/6d341104-2750-4efa-a2f7-cf8b07ff994f)
+
+
+
+
+[Access it here!](https://github.com/FavianSulthanW/Psychometrics)
+
+This is one of my classes that i took in my 5th semester. Here's what i did:
+- For my final project, my group conducted a survey to analyze the relationship between major mismatch and stress levels among students in the Mathematics Department at FMIPA UI. We used partial least square (PLS) method with SmartPLS application to gain deeper insights about the quality and relationship between variables.
+
+  
+
+
 
 
 
