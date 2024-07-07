@@ -46,7 +46,7 @@ daily for inventory team using Python, and SQL.
 of products sold.
 
 
-### Metode Peramalan
+### Forecasting Methods
 ![arima forecast](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/96d63ba5-94a7-4379-b296-fa7844c9d513)
 
 
@@ -56,7 +56,7 @@ This is one of my classes that i took in my 4th semester. Here's what i did:
 - For my final exam, we had a group project to forecast using ARIMA model. We predicted the daily temperature of Warsaw using this [dataset](https://www.kaggle.com/datasets/mateuszk013/warsaw-daily-weather) using ARIMA forecasting model in R
 
 
-### Analisis Survival
+### Survival Analysis
 ![survival anal](https://github.com/FavianSulthanW/FavianSulthanW.github.io/assets/153904968/b7a4cd37-3c68-4700-bde2-102a9bf36c52)
 
 
