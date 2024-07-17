@@ -1,5 +1,5 @@
 # Hello!
-I'm Sulthan, a penultimate-year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
+I'm Sulthan, a final year statistics undergraduate student with a passion for the world of data science and data analytics. I have completed several projects in this field, primarily using Python and R, which are showcased here. I'm also currently learning more about Machine Learning.
 
 #### Technical Skills: Python, SQL, R, Tableau, SPSS, E-Views, Microsoft Excel
 
@@ -106,6 +106,13 @@ This is one of my classes that i took in my 5th semester. Here's what i did:
 
   
 
+### Exploratory Data Analysis (EDA)
+![image](https://github.com/user-attachments/assets/368c05dc-36b0-4445-9eaf-0b7d185b2372)
+
+[Access it here!](https://github.com/FavianSulthanW/EDA)
+
+This is one of my classes that i took in my 2nd semester. Here's what i did:
+- For my final project, we were assigned to groups to perform text analysis on hot topics on Twitter. My group chose the topic of Formula E Jakarta, which was very popular at the time. We scraped data from Twitter, preprocessed it, and gained insights from it using Voyant Tools for visualizations.
 
 
 
