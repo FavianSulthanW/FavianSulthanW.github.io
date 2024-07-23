@@ -116,7 +116,22 @@ This is one of my classes that i took in my 2nd semester. Here's what i did:
 
 
 
+### RISTEK DATATHON 2024 Competition
+![image](https://github.com/user-attachments/assets/78f50d17-5f84-43ef-be51-8b11e536bc4a)
 
+[Access it here!](https://github.com/FavianSulthanW/DATATHON24)
+
+[RISTEK DATATHON Competition](https://event.ristek.cs.ui.ac.id/datathon) is an annual competition hosted by RISTEK Fasilkom UI that aims to offer undergraduate students a unique opportunity to develop their skills and gain practical experience in data science. This competition provides a platform where participants can refine their analytical abilities and learn to derive insights from datasets. By simulating real-world challenges, Datathon 2024 is designed to equip participants for the demands of the workforce as data scientists.
+- In this competition our objective was to make a classification model for fraud detection from a fully encoded financial product lending records dataset (https://arxiv.org/abs/2207.03579).
+- My team (amigos) used CatBoost model with some feature engineering and placed 17th out of 222 teams
+
+
+### mobil123.com Website Scraping and Dashboard Building
+![image](https://github.com/user-attachments/assets/b0066bd3-c12f-46cc-b910-1e4cce3d826a)
+
+[Access it here!](https://github.com/FavianSulthanW/mobil123.com-Dashboard)
+
+On my semester break i had this idea to try scraping a dataset from a website. I chose a car marketplace site called [mobil123.com](https://www.mobil123.com/) and took a total of 20k+ cars for sale data. I did some preprocessing on the features and then built a dashboard using Excel for easy filtering.
 
 ### My Tableau Public
 
