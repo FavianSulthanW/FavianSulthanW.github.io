@@ -127,11 +127,12 @@ This is one of my classes that i took in my 2nd semester. Here's what i did:
 
 
 ### mobil123.com Website Scraping and Dashboard Building
-![image](https://github.com/user-attachments/assets/b0066bd3-c12f-46cc-b910-1e4cce3d826a)
+![image](https://github.com/user-attachments/assets/02f44f9b-ec31-43a5-9989-618a5ce55d52)
+
 
 [Access it here!](https://github.com/FavianSulthanW/mobil123.com-Dashboard)
 
-On my semester break i had this idea to try scraping a dataset from a website. I chose a car marketplace site called [mobil123.com](https://www.mobil123.com/) and took a total of 20k+ cars for sale data. I did some preprocessing on the features and then built a dashboard using Excel for easy filtering.
+On my semester break i had this idea to try scraping a dataset from a website. I chose a car marketplace site called [mobil123.com](https://www.mobil123.com/) and took a total of 20k+ cars for sale data. I did some preprocessing on the features and then built a dashboard using Excel and PowerBI for easier search.
 
 ### My Tableau Public
 
